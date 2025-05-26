@@ -1,3 +1,3 @@
 # apnademo
-My first Git repository
-Author - Govind B Nair
+<h1>My first Git repository</h1>
+<li>Author - Govind B Nair</li>
